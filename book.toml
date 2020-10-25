@@ -1,0 +1,9 @@
+[book]
+authors = ["lh"]
+language = "zh"
+multilingual = false
+src = "docs_src"
+title = "text-generator"
+
+[build]
+build-dir = "docs"
